@@ -15,7 +15,7 @@ function Navbar() {
           <Link to="/" className="navbar-brand p-3">
             <h2 className="text-warning m-0">
               <FontAwesomeIcon icon={faUtensils} className="px-lg-4 px-sm-2" />
-              Urban Foods
+              Urban Food
             </h2>
           </Link>
 
